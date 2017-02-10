@@ -10,6 +10,7 @@ TestAssets/buildVersion.txt
 *.user
 *.sln.docstates
 .vs/
+.vscode/
 
 # dotnet cli install directory
 .dotnet_cli

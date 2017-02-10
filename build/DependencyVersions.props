@@ -10,12 +10,14 @@
 
   <!-- Dependencies from test projects -->
   <PropertyGroup>
-    <xunitVersion>2.1.0</xunitVersion>
-    <FluentAssertionsVersion>4.0.0</FluentAssertionsVersion>
+    <xunitVersion>2.2.0-beta5-build3474</xunitVersion>
+    <xunitRunnerVersion>2.2.0-beta5-build1225</xunitRunnerVersion>
+    <DotnetTestSdkVersion>15.0.0-preview-20170125-04</DotnetTestSdkVersion>
+    <FluentAssertionsVersion>4.18.0</FluentAssertionsVersion>
     <FluentAssertionsJsonVersion>4.12.0</FluentAssertionsJsonVersion>
     <NewtonsoftJsonVersion>9.0.1</NewtonsoftJsonVersion>
     <NewtonsoftJsonOnNetFrameworkVersion>6.0.4</NewtonsoftJsonOnNetFrameworkVersion>
-    <DotNetCliUtilsVersion>1.0.0-preview2-003121</DotNetCliUtilsVersion>
+    <DotNetCliUtilsVersion>1.0.0-rc4-004771</DotNetCliUtilsVersion>
   </PropertyGroup>
   
 </Project>
